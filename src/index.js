@@ -4,7 +4,6 @@ console.log('First web service starting up ...');
 const name = 'fred';
 const car = {
   make: 'Ford',
-  make: 'Ford',
 };
 
 // 1 - pull in the HTTP server module
